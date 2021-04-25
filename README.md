@@ -6,4 +6,4 @@ Crowding_system takes as input json files from the google maps history of users 
 
 Among others, visualization tools (e.g. heatmaps), importing and deleting users from a database and others are utilized in the implementation.
 
-Technologies used: PHP, Javascript, CSS, HTML
+Technologies used: PHP, Javascript, CSS, HTML, SQL
